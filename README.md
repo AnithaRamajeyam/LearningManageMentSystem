@@ -1,1 +1,1 @@
-# LearningManageMentSystem
+# LearningManagementSystem
